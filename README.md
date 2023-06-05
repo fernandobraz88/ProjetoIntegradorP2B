@@ -15,20 +15,20 @@ No programa em questão é possivel:
 * Fazer Login
 * Após o Login se tem acesso as funcionalidade:
   
-  -Conta Corrente
+  - Conta Corrente
     Na conta corrente é possivel fazer Depósitos, Saques, verificar Saldo e tirar o Extrato das movimentaçoes da conta corrente
   
-  -Conta Poupança
+  - Conta Poupança
     Na conta poupança é possivel verificar o Saldo, fazer o Resgate (este transfere um valor definido pelo usuário da poupança para a conta corrente), tambem foi implementado uma funcionalidade de "Gerar rendimentos da poupança" (Funcionalidade exigida como criterios da atividade)
   
   -Conta Investimento
     Na conta investimento é possivel fazer investimento (utiliza um valor do saldo da conta corrente definido pelo usuário),
     Resgatar o investimento (transfere todo o valor investido de volta pra conta corrente) e "Gerar rendimentos do Investimento" (Funcionalidade exigida como criterios da atividade)
     
-  -Transferencia
+  - Transferencia
     Executa Transferencias da Conta Corrente para a Conta Poupança e Transferencias entre contas cadastradas no sistema.
  
-  -Emprestimos
+  - Emprestimos
     Faz um emprestimo, enviando o valor solicitado para a conta corrente do usuário, calculando o valor das parcelas e mostrando o valor final a pagar após a implementação das taxas de juros.
     
 * Listar Contas:

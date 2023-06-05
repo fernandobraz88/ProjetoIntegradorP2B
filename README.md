@@ -31,6 +31,8 @@ No programa em questão é possivel:
   -Emprestimos
     Faz um emprestimo, enviando o valor solicitado para a conta corrente do usuário, calculando o valor das parcelas e mostrando o valor final a pagar após a implementação das taxas de juros.
     
+* Listar Contas:
+  - Essa funcionalidade Exibe todas as contas cadastradas e seus respectivos dados.    
 Segue abaixo o video demonstrativo do Programa em execução:
 
 [Video Demonstrativo](https://www.youtube.com/watch?v=gKyC_LpsEuk)

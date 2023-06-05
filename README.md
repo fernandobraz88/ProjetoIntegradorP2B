@@ -2,9 +2,9 @@
 Repositório dedicado ao Projeto Integrador do P2 de Sistemas para Internet:
 
 **Grupo:**
-Fernando Braz da Silveira
-Murilo Kaspar Deininger Neto
-Jayme Holanda Aguiar
+1.Fernando Braz da Silveira
+2.Murilo Kaspar Deininger Neto
+3.Jayme Holanda Aguiar
 
 **Descrição da atividade:**
 *Desenvolvimento de um programa utilizando Java e os fundamentos de Orientação a Objetos que simule um Sistema bancário.
